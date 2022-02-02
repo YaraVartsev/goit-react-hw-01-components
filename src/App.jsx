@@ -2,7 +2,7 @@ import { Profile } from "./components/social-profile/Profile";
 import { Statistics } from './components/statistics/Statistics';
 import { FriendList } from './components/friend-list/FriendList';
 import { TransactionHistory } from './components/transaction-history/TransactionHistory';
-import './App.css';
+
 
 
 
